@@ -30,8 +30,11 @@
         color: #ffffff;
     }
     a#b:hover{
-        background-color: red;
-        color: #ffffff;
+        background-color: yellow;
+        color: #000;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-decoration: underline overline;
     }
     nav ul {
     list-style-type: none;
